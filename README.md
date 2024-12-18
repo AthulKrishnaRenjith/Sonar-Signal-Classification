@@ -68,5 +68,7 @@ The dataset used is the Sonar Data, which contains 207 samples with 60 numerical
 
 ## Acknowledgments
 
-The dataset used in this project is sourced from the UCI Machine Learning Repository.
+The dataset used in this project is sourced from the UCI Machine Learning Repository. 
+For additional context and explanation, refer to [this video](https://youtu.be/fiz1ORTBGpY?si=l2dXpxbWZUuT2-0e) by 
+Siddhardhan.
 
